@@ -4,7 +4,7 @@ This site creates social media sharing cards for the [Netlify blog](https://www.
 
 The images look something like this:
 
-![Add the title of the article you’re sharing! Wow! It’s so easy!](https://res.cloudinary.com/netlify/image/upload/c_fit,g_west,h_515,co_rgb:FFFFFFFF,l_text:netlify.com:Pacaembu-Bold.ttf_67:Add%20the%20title%20of%20the%20article%20you%E2%80%99re%20sharing!%20Wow!%20It%E2%80%99s%20so%20easy,w_1053,x_45,y_30/v1619121070/netlify.com/default-og-background.png)
+![Add the title of the article you’re sharing! Wow! It’s so easy!](https://res.cloudinary.com/netlify/image/upload/c_fit,g_west,h_400,co_rgb:FFFFFFFF,l_text:netlify.com:Pacaembu-Bold.ttf_57:Next.js%20on%20Netlify%3A%20Now%20with%20support%20for%20On-demand%20Builders%20and%20Distributed%20Persistent%20Rendering,w_1053,x_46/v1619123320/netlify.com/default-og-background-learn-more.png)
 
 To make your own, click the Deploy to Netlify button:
 
