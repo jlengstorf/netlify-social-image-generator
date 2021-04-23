@@ -59,7 +59,7 @@ layout: default
   <input id="caption" name="caption" type="text" />
 
   <label for="size">If it doesn’t fit, you can adjust the font size here:</label>
-  <input id="size" name="size" type="number" value="110" min="10" />
+  <input id="size" name="size" type="number" value="57" min="10" />
 
   <button>Generate Image</button>
 </form>
